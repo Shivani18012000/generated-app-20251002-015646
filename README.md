@@ -1,6 +1,6 @@
 # SerenityScheduler
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Shivani18012000/generated-app-20251002-015646)
 
 > A visually stunning and elegant web page for booking salon appointments with a seamless, intuitive user experience.
 
@@ -88,4 +88,4 @@ bun run deploy
 
 Alternatively, you can deploy directly from your GitHub repository with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Shivani18012000/generated-app-20251002-015646)
